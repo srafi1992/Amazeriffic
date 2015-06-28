@@ -1,0 +1,26 @@
+body{
+	background: yellow;
+}
+
+header, footer, main{
+	min-width: 855px;
+}
+
+header{
+	background: white;
+	overflow: auto;
+}
+
+header h1{
+	float: left;
+	width: 580px;
+}
+
+header nav{
+	float: right;
+	width: 285px;
+}
+
+main{
+	background: white;
+}
